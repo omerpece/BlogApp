@@ -1,0 +1,11 @@
+C:\Users\enes\source\repos\BlogApp\BlogApp.Data\bin\Debug\netcoreapp3.1\BlogApp.Data.deps.json
+C:\Users\enes\source\repos\BlogApp\BlogApp.Data\bin\Debug\netcoreapp3.1\BlogApp.Data.dll
+C:\Users\enes\source\repos\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.csprojAssemblyReference.cache
+C:\Users\enes\source\repos\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.AssemblyInfoInputs.cache
+C:\Users\enes\source\repos\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.AssemblyInfo.cs
+C:\Users\enes\source\repos\BlogApp\BlogApp.Data\bin\Debug\netcoreapp3.1\BlogApp.Data.pdb
+C:\Users\enes\source\repos\BlogApp\BlogApp.Data\bin\Debug\netcoreapp3.1\BlogApp.Entity.dll
+C:\Users\enes\source\repos\BlogApp\BlogApp.Data\bin\Debug\netcoreapp3.1\BlogApp.Entity.pdb
+C:\Users\enes\source\repos\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.csproj.CopyComplete
+C:\Users\enes\source\repos\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.dll
+C:\Users\enes\source\repos\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.pdb

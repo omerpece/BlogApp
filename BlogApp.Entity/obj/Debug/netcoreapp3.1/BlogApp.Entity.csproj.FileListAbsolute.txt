@@ -1,0 +1,7 @@
+C:\Users\enes\source\repos\BlogApp\BlogApp.Entity\bin\Debug\netcoreapp3.1\BlogApp.Entity.deps.json
+C:\Users\enes\source\repos\BlogApp\BlogApp.Entity\bin\Debug\netcoreapp3.1\BlogApp.Entity.dll
+C:\Users\enes\source\repos\BlogApp\BlogApp.Entity\bin\Debug\netcoreapp3.1\BlogApp.Entity.pdb
+C:\Users\enes\source\repos\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp3.1\BlogApp.Entity.AssemblyInfoInputs.cache
+C:\Users\enes\source\repos\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp3.1\BlogApp.Entity.AssemblyInfo.cs
+C:\Users\enes\source\repos\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp3.1\BlogApp.Entity.dll
+C:\Users\enes\source\repos\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp3.1\BlogApp.Entity.pdb
